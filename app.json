@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "communication-board",
+    "slug": "communication-board",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "communication-board"
+}
